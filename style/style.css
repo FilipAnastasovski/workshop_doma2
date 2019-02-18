@@ -1,0 +1,12 @@
+body{
+    background-image: url('../img/background.jpg');
+}
+.card{
+    margin: 20px;
+    background-image: url('../img/card.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-img-top{
+    margin-top: 10px;
+}
